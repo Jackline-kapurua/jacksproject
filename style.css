@@ -80,3 +80,8 @@ section footer{
   text-align: center;
   font-size: large;
 }
+#farm{
+  float: right;
+  width: 900px;
+  size: 200px;
+}

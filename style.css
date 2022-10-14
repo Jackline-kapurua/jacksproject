@@ -80,8 +80,17 @@ section footer{
   text-align: center;
   font-size: large;
 }
+
 #farm{
+  display: flex;
   float: right;
   width: 900px;
   size: 200px;
+}
+#farm p{
+margin-right: 7%;
+margin-top: 7%;
+}
+#farm h2{
+  margin-left: 3%;
 }

@@ -1,0 +1,96 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  background-color: lightcoral;
+}
+body nav{
+  display: flex;
+}
+
+
+body nav menu header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+
+body nav menu header img{
+  display: flex;
+  height: 50px;
+  margin: 1rem;
+border-radius: 1rem;
+}
+
+body nav menu header div{
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+
+body nav menu header div ul{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration: dashed;
+  margin-left: 3rem;
+}
+
+
+body nav menu header div ul li{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration: dashed;
+  margin-left: 3rem;
+}
+
+body nav menu header div ul li a{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration: dashed;
+  margin-left: 3rem;
+  color: white;
+  font-size: 20px;
+}
+
+body nav menu header div ul li a:hover{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration: dashed;
+  margin-left: 3rem;
+  color: black;
+  font-size: 20px;
+}
+
+section{
+  color: black;
+}
+section div{
+  font-size: 20px;
+
+}
+section footer{
+  background-color: aqua;
+  padding-top: 5rem;
+  height: 5rem;
+  text-align: center;
+  font-size: large;
+}
+
+#farm{
+  display: flex;
+  float: right;
+  width: 900px;
+  size: 200px;
+}
+#farm p{
+margin-right: 7%;
+margin-top: 7%;
+}
+#farm h2{
+  margin-left: 3%;
+}
